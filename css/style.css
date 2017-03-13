@@ -1,9 +1,6 @@
 section {
   height: 200px;
   width: 200px;
-
-}
-section{
   border: 2px dotted black;
 }
 section:nth-of-type(1) {
