@@ -1,6 +1,7 @@
 section {
   height: 200px;
   width: 200px;
+  border: 2px dotted black;
 }
 section:nth-of-type(1) {
   background-color: black;
