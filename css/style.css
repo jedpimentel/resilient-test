@@ -1,3 +1,6 @@
+body{
+  background-color: grey;
+}
 section {
   font-family: sans-serif;
   height: 200px;
